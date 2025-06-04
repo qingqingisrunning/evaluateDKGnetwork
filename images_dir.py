@@ -1,7 +1,7 @@
 import os
 import json
 
-root = "assets/images"
+root = "assets/images/"
 data = []
 
 for dirpath, dirnames, filenames in os.walk(root):

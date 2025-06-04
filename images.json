@@ -1,0 +1,1442 @@
+[
+  {
+    "category": "airplane",
+    "filename": "0.png",
+    "path": "assets/images/images_128/Controlnet_128/airplane/0.png"
+  },
+  {
+    "category": "airplane",
+    "filename": "1.png",
+    "path": "assets/images/images_128/Controlnet_128/airplane/1.png"
+  },
+  {
+    "category": "airplane",
+    "filename": "2.png",
+    "path": "assets/images/images_128/Controlnet_128/airplane/2.png"
+  },
+  {
+    "category": "barn",
+    "filename": "0.png",
+    "path": "assets/images/images_128/Controlnet_128/barn/0.png"
+  },
+  {
+    "category": "barn",
+    "filename": "1.png",
+    "path": "assets/images/images_128/Controlnet_128/barn/1.png"
+  },
+  {
+    "category": "barn",
+    "filename": "2.png",
+    "path": "assets/images/images_128/Controlnet_128/barn/2.png"
+  },
+  {
+    "category": "bicycle",
+    "filename": "0.png",
+    "path": "assets/images/images_128/Controlnet_128/bicycle/0.png"
+  },
+  {
+    "category": "bicycle",
+    "filename": "1.png",
+    "path": "assets/images/images_128/Controlnet_128/bicycle/1.png"
+  },
+  {
+    "category": "bicycle",
+    "filename": "2.png",
+    "path": "assets/images/images_128/Controlnet_128/bicycle/2.png"
+  },
+  {
+    "category": "bird",
+    "filename": "0.png",
+    "path": "assets/images/images_128/Controlnet_128/bird/0.png"
+  },
+  {
+    "category": "bird",
+    "filename": "1.png",
+    "path": "assets/images/images_128/Controlnet_128/bird/1.png"
+  },
+  {
+    "category": "bird",
+    "filename": "2.png",
+    "path": "assets/images/images_128/Controlnet_128/bird/2.png"
+  },
+  {
+    "category": "butterfly",
+    "filename": "0.png",
+    "path": "assets/images/images_128/Controlnet_128/butterfly/0.png"
+  },
+  {
+    "category": "butterfly",
+    "filename": "1.png",
+    "path": "assets/images/images_128/Controlnet_128/butterfly/1.png"
+  },
+  {
+    "category": "butterfly",
+    "filename": "2.png",
+    "path": "assets/images/images_128/Controlnet_128/butterfly/2.png"
+  },
+  {
+    "category": "car",
+    "filename": "0.png",
+    "path": "assets/images/images_128/Controlnet_128/car/0.png"
+  },
+  {
+    "category": "car",
+    "filename": "1.png",
+    "path": "assets/images/images_128/Controlnet_128/car/1.png"
+  },
+  {
+    "category": "car",
+    "filename": "2.png",
+    "path": "assets/images/images_128/Controlnet_128/car/2.png"
+  },
+  {
+    "category": "cat",
+    "filename": "0.png",
+    "path": "assets/images/images_128/Controlnet_128/cat/0.png"
+  },
+  {
+    "category": "cat",
+    "filename": "1.png",
+    "path": "assets/images/images_128/Controlnet_128/cat/1.png"
+  },
+  {
+    "category": "cat",
+    "filename": "2.png",
+    "path": "assets/images/images_128/Controlnet_128/cat/2.png"
+  },
+  {
+    "category": "dog",
+    "filename": "0.png",
+    "path": "assets/images/images_128/Controlnet_128/dog/0.png"
+  },
+  {
+    "category": "dog",
+    "filename": "1.png",
+    "path": "assets/images/images_128/Controlnet_128/dog/1.png"
+  },
+  {
+    "category": "dog",
+    "filename": "2.png",
+    "path": "assets/images/images_128/Controlnet_128/dog/2.png"
+  },
+  {
+    "category": "drill",
+    "filename": "0.png",
+    "path": "assets/images/images_128/Controlnet_128/drill/0.png"
+  },
+  {
+    "category": "drill",
+    "filename": "1.png",
+    "path": "assets/images/images_128/Controlnet_128/drill/1.png"
+  },
+  {
+    "category": "drill",
+    "filename": "2.png",
+    "path": "assets/images/images_128/Controlnet_128/drill/2.png"
+  },
+  {
+    "category": "motorbike",
+    "filename": "0.png",
+    "path": "assets/images/images_128/Controlnet_128/motorbike/0.png"
+  },
+  {
+    "category": "motorbike",
+    "filename": "1.png",
+    "path": "assets/images/images_128/Controlnet_128/motorbike/1.png"
+  },
+  {
+    "category": "motorbike",
+    "filename": "2.png",
+    "path": "assets/images/images_128/Controlnet_128/motorbike/2.png"
+  },
+  {
+    "category": "rhinoceros",
+    "filename": "0.png",
+    "path": "assets/images/images_128/Controlnet_128/rhinoceros/0.png"
+  },
+  {
+    "category": "rhinoceros",
+    "filename": "1.png",
+    "path": "assets/images/images_128/Controlnet_128/rhinoceros/1.png"
+  },
+  {
+    "category": "rhinoceros",
+    "filename": "2.png",
+    "path": "assets/images/images_128/Controlnet_128/rhinoceros/2.png"
+  },
+  {
+    "category": "zebra",
+    "filename": "0.png",
+    "path": "assets/images/images_128/Controlnet_128/zebra/0.png"
+  },
+  {
+    "category": "zebra",
+    "filename": "1.png",
+    "path": "assets/images/images_128/Controlnet_128/zebra/1.png"
+  },
+  {
+    "category": "zebra",
+    "filename": "2.png",
+    "path": "assets/images/images_128/Controlnet_128/zebra/2.png"
+  },
+  {
+    "category": "airplane",
+    "filename": "0_0_a fighter jet taking off from an aircraft carrier_images.png",
+    "path": "assets/images/images_128/ours_128/airplane/0_0_a fighter jet taking off from an aircraft carrier_images.png"
+  },
+  {
+    "category": "airplane",
+    "filename": "1_0_a united airlines plane flying in the sky_images.png",
+    "path": "assets/images/images_128/ours_128/airplane/1_0_a united airlines plane flying in the sky_images.png"
+  },
+  {
+    "category": "airplane",
+    "filename": "2_0_a small airplane flying through a cloudy sky_images.png",
+    "path": "assets/images/images_128/ours_128/airplane/2_0_a small airplane flying through a cloudy sky_images.png"
+  },
+  {
+    "category": "barn",
+    "filename": "0_0_a red barn with a windmill in the background_images.png",
+    "path": "assets/images/images_128/ours_128/barn/0_0_a red barn with a windmill in the background_images.png"
+  },
+  {
+    "category": "barn",
+    "filename": "1_0_a barn with a green roof and a white truck parked in front of it_images.png",
+    "path": "assets/images/images_128/ours_128/barn/1_0_a barn with a green roof and a white truck parked in front of it_images.png"
+  },
+  {
+    "category": "barn",
+    "filename": "2_0_a wooden house with green shutters and a porch_images.png",
+    "path": "assets/images/images_128/ours_128/barn/2_0_a wooden house with green shutters and a porch_images.png"
+  },
+  {
+    "category": "bicycle",
+    "filename": "0_0_a black and white photo of a bike with the words order now on it_images.png",
+    "path": "assets/images/images_128/ours_128/bicycle/0_0_a black and white photo of a bike with the words order now on it_images.png"
+  },
+  {
+    "category": "bicycle",
+    "filename": "1_0_a statue of a frog riding a bicycle in a pond_images.png",
+    "path": "assets/images/images_128/ours_128/bicycle/1_0_a statue of a frog riding a bicycle in a pond_images.png"
+  },
+  {
+    "category": "bicycle",
+    "filename": "2_0_a silver and black bike on a white background_images.png",
+    "path": "assets/images/images_128/ours_128/bicycle/2_0_a silver and black bike on a white background_images.png"
+  },
+  {
+    "category": "bird",
+    "filename": "0_0_a bird sitting on a tree branch with a square in front of it_images.png",
+    "path": "assets/images/images_128/ours_128/bird/0_0_a bird sitting on a tree branch with a square in front of it_images.png"
+  },
+  {
+    "category": "bird",
+    "filename": "1_0_a large bird flying next to a smaller bird_images.png",
+    "path": "assets/images/images_128/ours_128/bird/1_0_a large bird flying next to a smaller bird_images.png"
+  },
+  {
+    "category": "bird",
+    "filename": "2_0_a close up of a pigeon with a blurry background_images.png",
+    "path": "assets/images/images_128/ours_128/bird/2_0_a close up of a pigeon with a blurry background_images.png"
+  },
+  {
+    "category": "butterfly",
+    "filename": "0_0_a red and black butterfly on a black background_images.png",
+    "path": "assets/images/images_128/ours_128/butterfly/0_0_a red and black butterfly on a black background_images.png"
+  },
+  {
+    "category": "butterfly",
+    "filename": "1_0_a blue butterfly on a white background_images.png",
+    "path": "assets/images/images_128/ours_128/butterfly/1_0_a blue butterfly on a white background_images.png"
+  },
+  {
+    "category": "butterfly",
+    "filename": "2_0_a large orange butterfly with black spots on it's wings_images.png",
+    "path": "assets/images/images_128/ours_128/butterfly/2_0_a large orange butterfly with black spots on it's wings_images.png"
+  },
+  {
+    "category": "car",
+    "filename": "0_0_two cars driving down a road with mountains in the background_images.png",
+    "path": "assets/images/images_128/ours_128/car/0_0_two cars driving down a road with mountains in the background_images.png"
+  },
+  {
+    "category": "car",
+    "filename": "1_0_a silver car is driving down a road_images.png",
+    "path": "assets/images/images_128/ours_128/car/1_0_a silver car is driving down a road_images.png"
+  },
+  {
+    "category": "car",
+    "filename": "2_0_a white car is shown on a white background_images.png",
+    "path": "assets/images/images_128/ours_128/car/2_0_a white car is shown on a white background_images.png"
+  },
+  {
+    "category": "cat",
+    "filename": "0_0_a group of kittens sitting next to each other_images.png",
+    "path": "assets/images/images_128/ours_128/cat/0_0_a group of kittens sitting next to each other_images.png"
+  },
+  {
+    "category": "cat",
+    "filename": "1_0_a cat with it's mouth open showing teeth_images.png",
+    "path": "assets/images/images_128/ours_128/cat/1_0_a cat with it's mouth open showing teeth_images.png"
+  },
+  {
+    "category": "cat",
+    "filename": "2_0_an orange and white cat playing with a toy_images.png",
+    "path": "assets/images/images_128/ours_128/cat/2_0_an orange and white cat playing with a toy_images.png"
+  },
+  {
+    "category": "dog",
+    "filename": "0_0_a close up of a dog with its mouth open_images.png",
+    "path": "assets/images/images_128/ours_128/dog/0_0_a close up of a dog with its mouth open_images.png"
+  },
+  {
+    "category": "dog",
+    "filename": "1_0_a black and white photo of a dog_images.png",
+    "path": "assets/images/images_128/ours_128/dog/1_0_a black and white photo of a dog_images.png"
+  },
+  {
+    "category": "dog",
+    "filename": "2_0_a dog laying in the grass with its tongue out_images.png",
+    "path": "assets/images/images_128/ours_128/dog/2_0_a dog laying in the grass with its tongue out_images.png"
+  },
+  {
+    "category": "drill",
+    "filename": "0_0_a cordless drill is shown on a white background_images.png",
+    "path": "assets/images/images_128/ours_128/drill/0_0_a cordless drill is shown on a white background_images.png"
+  },
+  {
+    "category": "drill",
+    "filename": "1_0_a cordless drill with a case and tools_images.png",
+    "path": "assets/images/images_128/ours_128/drill/1_0_a cordless drill with a case and tools_images.png"
+  },
+  {
+    "category": "drill",
+    "filename": "2_0_a cordless drill with a drill attachment_images.png",
+    "path": "assets/images/images_128/ours_128/drill/2_0_a cordless drill with a drill attachment_images.png"
+  },
+  {
+    "category": "motorbike",
+    "filename": "0_0_a picture of a green motorcycle with a white background_images.png",
+    "path": "assets/images/images_128/ours_128/motorbike/0_0_a picture of a green motorcycle with a white background_images.png"
+  },
+  {
+    "category": "motorbike",
+    "filename": "1_0_a white and orange motorcycle parked on the street_images.png",
+    "path": "assets/images/images_128/ours_128/motorbike/1_0_a white and orange motorcycle parked on the street_images.png"
+  },
+  {
+    "category": "motorbike",
+    "filename": "2_0_a close up of a motorcycle on a white background_images.png",
+    "path": "assets/images/images_128/ours_128/motorbike/2_0_a close up of a motorcycle on a white background_images.png"
+  },
+  {
+    "category": "rhinoceros",
+    "filename": "0_0_a couple of rhinos standing next to each other_images.png",
+    "path": "assets/images/images_128/ours_128/rhinoceros/0_0_a couple of rhinos standing next to each other_images.png"
+  },
+  {
+    "category": "rhinoceros",
+    "filename": "1_0_a rhino standing in tall grass with the word rhinos in front of it_images.png",
+    "path": "assets/images/images_128/ours_128/rhinoceros/1_0_a rhino standing in tall grass with the word rhinos in front of it_images.png"
+  },
+  {
+    "category": "rhinoceros",
+    "filename": "2_0_a rhinoceros is standing in the grass_images.png",
+    "path": "assets/images/images_128/ours_128/rhinoceros/2_0_a rhinoceros is standing in the grass_images.png"
+  },
+  {
+    "category": "zebra",
+    "filename": "0_0_a zebra standing in a field of dry grass_images.png",
+    "path": "assets/images/images_128/ours_128/zebra/0_0_a zebra standing in a field of dry grass_images.png"
+  },
+  {
+    "category": "zebra",
+    "filename": "1_0_a zebra is standing in front of a white background_images.png",
+    "path": "assets/images/images_128/ours_128/zebra/1_0_a zebra is standing in front of a white background_images.png"
+  },
+  {
+    "category": "zebra",
+    "filename": "2_0_a zebra walking across a grass covered field_images.png",
+    "path": "assets/images/images_128/ours_128/zebra/2_0_a zebra walking across a grass covered field_images.png"
+  },
+  {
+    "category": "airplane",
+    "filename": "0_source_mask.png",
+    "path": "assets/images/images_128/sketch_128/airplane/0_source_mask.png"
+  },
+  {
+    "category": "airplane",
+    "filename": "1_source_mask.png",
+    "path": "assets/images/images_128/sketch_128/airplane/1_source_mask.png"
+  },
+  {
+    "category": "airplane",
+    "filename": "2_source_mask.png",
+    "path": "assets/images/images_128/sketch_128/airplane/2_source_mask.png"
+  },
+  {
+    "category": "barn",
+    "filename": "0_source_mask.png",
+    "path": "assets/images/images_128/sketch_128/barn/0_source_mask.png"
+  },
+  {
+    "category": "barn",
+    "filename": "1_source_mask.png",
+    "path": "assets/images/images_128/sketch_128/barn/1_source_mask.png"
+  },
+  {
+    "category": "barn",
+    "filename": "2_source_mask.png",
+    "path": "assets/images/images_128/sketch_128/barn/2_source_mask.png"
+  },
+  {
+    "category": "bicycle",
+    "filename": "0_source_mask.png",
+    "path": "assets/images/images_128/sketch_128/bicycle/0_source_mask.png"
+  },
+  {
+    "category": "bicycle",
+    "filename": "1_source_mask.png",
+    "path": "assets/images/images_128/sketch_128/bicycle/1_source_mask.png"
+  },
+  {
+    "category": "bicycle",
+    "filename": "2_source_mask.png",
+    "path": "assets/images/images_128/sketch_128/bicycle/2_source_mask.png"
+  },
+  {
+    "category": "bird",
+    "filename": "0_source_mask.png",
+    "path": "assets/images/images_128/sketch_128/bird/0_source_mask.png"
+  },
+  {
+    "category": "bird",
+    "filename": "1_source_mask.png",
+    "path": "assets/images/images_128/sketch_128/bird/1_source_mask.png"
+  },
+  {
+    "category": "bird",
+    "filename": "2_source_mask.png",
+    "path": "assets/images/images_128/sketch_128/bird/2_source_mask.png"
+  },
+  {
+    "category": "butterfly",
+    "filename": "0_source_mask.png",
+    "path": "assets/images/images_128/sketch_128/butterfly/0_source_mask.png"
+  },
+  {
+    "category": "butterfly",
+    "filename": "1_source_mask.png",
+    "path": "assets/images/images_128/sketch_128/butterfly/1_source_mask.png"
+  },
+  {
+    "category": "butterfly",
+    "filename": "2_source_mask.png",
+    "path": "assets/images/images_128/sketch_128/butterfly/2_source_mask.png"
+  },
+  {
+    "category": "car",
+    "filename": "0_source_mask.png",
+    "path": "assets/images/images_128/sketch_128/car/0_source_mask.png"
+  },
+  {
+    "category": "car",
+    "filename": "1_source_mask.png",
+    "path": "assets/images/images_128/sketch_128/car/1_source_mask.png"
+  },
+  {
+    "category": "car",
+    "filename": "2_source_mask.png",
+    "path": "assets/images/images_128/sketch_128/car/2_source_mask.png"
+  },
+  {
+    "category": "cat",
+    "filename": "0_source_mask.png",
+    "path": "assets/images/images_128/sketch_128/cat/0_source_mask.png"
+  },
+  {
+    "category": "cat",
+    "filename": "1_source_mask.png",
+    "path": "assets/images/images_128/sketch_128/cat/1_source_mask.png"
+  },
+  {
+    "category": "cat",
+    "filename": "2_source_mask.png",
+    "path": "assets/images/images_128/sketch_128/cat/2_source_mask.png"
+  },
+  {
+    "category": "dog",
+    "filename": "0_source_mask.png",
+    "path": "assets/images/images_128/sketch_128/dog/0_source_mask.png"
+  },
+  {
+    "category": "dog",
+    "filename": "1_source_mask.png",
+    "path": "assets/images/images_128/sketch_128/dog/1_source_mask.png"
+  },
+  {
+    "category": "dog",
+    "filename": "2_source_mask.png",
+    "path": "assets/images/images_128/sketch_128/dog/2_source_mask.png"
+  },
+  {
+    "category": "drill",
+    "filename": "0_source_mask.png",
+    "path": "assets/images/images_128/sketch_128/drill/0_source_mask.png"
+  },
+  {
+    "category": "drill",
+    "filename": "1_source_mask.png",
+    "path": "assets/images/images_128/sketch_128/drill/1_source_mask.png"
+  },
+  {
+    "category": "drill",
+    "filename": "2_source_mask.png",
+    "path": "assets/images/images_128/sketch_128/drill/2_source_mask.png"
+  },
+  {
+    "category": "motorbike",
+    "filename": "0_source_mask.png",
+    "path": "assets/images/images_128/sketch_128/motorbike/0_source_mask.png"
+  },
+  {
+    "category": "motorbike",
+    "filename": "1_source_mask.png",
+    "path": "assets/images/images_128/sketch_128/motorbike/1_source_mask.png"
+  },
+  {
+    "category": "motorbike",
+    "filename": "2_source_mask.png",
+    "path": "assets/images/images_128/sketch_128/motorbike/2_source_mask.png"
+  },
+  {
+    "category": "rhinoceros",
+    "filename": "0_source_mask.png",
+    "path": "assets/images/images_128/sketch_128/rhinoceros/0_source_mask.png"
+  },
+  {
+    "category": "rhinoceros",
+    "filename": "1_source_mask.png",
+    "path": "assets/images/images_128/sketch_128/rhinoceros/1_source_mask.png"
+  },
+  {
+    "category": "rhinoceros",
+    "filename": "2_source_mask.png",
+    "path": "assets/images/images_128/sketch_128/rhinoceros/2_source_mask.png"
+  },
+  {
+    "category": "zebra",
+    "filename": "0_source_mask.png",
+    "path": "assets/images/images_128/sketch_128/zebra/0_source_mask.png"
+  },
+  {
+    "category": "zebra",
+    "filename": "1_source_mask.png",
+    "path": "assets/images/images_128/sketch_128/zebra/1_source_mask.png"
+  },
+  {
+    "category": "zebra",
+    "filename": "2_source_mask.png",
+    "path": "assets/images/images_128/sketch_128/zebra/2_source_mask.png"
+  },
+  {
+    "category": "airplane",
+    "filename": "0.png",
+    "path": "assets/images/images_128/T2I_128/airplane/0.png"
+  },
+  {
+    "category": "airplane",
+    "filename": "1.png",
+    "path": "assets/images/images_128/T2I_128/airplane/1.png"
+  },
+  {
+    "category": "airplane",
+    "filename": "2.png",
+    "path": "assets/images/images_128/T2I_128/airplane/2.png"
+  },
+  {
+    "category": "barn",
+    "filename": "0.png",
+    "path": "assets/images/images_128/T2I_128/barn/0.png"
+  },
+  {
+    "category": "barn",
+    "filename": "1.png",
+    "path": "assets/images/images_128/T2I_128/barn/1.png"
+  },
+  {
+    "category": "barn",
+    "filename": "2.png",
+    "path": "assets/images/images_128/T2I_128/barn/2.png"
+  },
+  {
+    "category": "bicycle",
+    "filename": "0.png",
+    "path": "assets/images/images_128/T2I_128/bicycle/0.png"
+  },
+  {
+    "category": "bicycle",
+    "filename": "1.png",
+    "path": "assets/images/images_128/T2I_128/bicycle/1.png"
+  },
+  {
+    "category": "bicycle",
+    "filename": "2.png",
+    "path": "assets/images/images_128/T2I_128/bicycle/2.png"
+  },
+  {
+    "category": "bird",
+    "filename": "0.png",
+    "path": "assets/images/images_128/T2I_128/bird/0.png"
+  },
+  {
+    "category": "bird",
+    "filename": "1.png",
+    "path": "assets/images/images_128/T2I_128/bird/1.png"
+  },
+  {
+    "category": "bird",
+    "filename": "2.png",
+    "path": "assets/images/images_128/T2I_128/bird/2.png"
+  },
+  {
+    "category": "butterfly",
+    "filename": "0.png",
+    "path": "assets/images/images_128/T2I_128/butterfly/0.png"
+  },
+  {
+    "category": "butterfly",
+    "filename": "1.png",
+    "path": "assets/images/images_128/T2I_128/butterfly/1.png"
+  },
+  {
+    "category": "butterfly",
+    "filename": "2.png",
+    "path": "assets/images/images_128/T2I_128/butterfly/2.png"
+  },
+  {
+    "category": "car",
+    "filename": "0.png",
+    "path": "assets/images/images_128/T2I_128/car/0.png"
+  },
+  {
+    "category": "car",
+    "filename": "1.png",
+    "path": "assets/images/images_128/T2I_128/car/1.png"
+  },
+  {
+    "category": "car",
+    "filename": "2.png",
+    "path": "assets/images/images_128/T2I_128/car/2.png"
+  },
+  {
+    "category": "cat",
+    "filename": "0.png",
+    "path": "assets/images/images_128/T2I_128/cat/0.png"
+  },
+  {
+    "category": "cat",
+    "filename": "1.png",
+    "path": "assets/images/images_128/T2I_128/cat/1.png"
+  },
+  {
+    "category": "cat",
+    "filename": "2.png",
+    "path": "assets/images/images_128/T2I_128/cat/2.png"
+  },
+  {
+    "category": "dog",
+    "filename": "0.png",
+    "path": "assets/images/images_128/T2I_128/dog/0.png"
+  },
+  {
+    "category": "dog",
+    "filename": "1.png",
+    "path": "assets/images/images_128/T2I_128/dog/1.png"
+  },
+  {
+    "category": "dog",
+    "filename": "2.png",
+    "path": "assets/images/images_128/T2I_128/dog/2.png"
+  },
+  {
+    "category": "drill",
+    "filename": "0.png",
+    "path": "assets/images/images_128/T2I_128/drill/0.png"
+  },
+  {
+    "category": "drill",
+    "filename": "1.png",
+    "path": "assets/images/images_128/T2I_128/drill/1.png"
+  },
+  {
+    "category": "drill",
+    "filename": "2.png",
+    "path": "assets/images/images_128/T2I_128/drill/2.png"
+  },
+  {
+    "category": "motorbike",
+    "filename": "0.png",
+    "path": "assets/images/images_128/T2I_128/motorbike/0.png"
+  },
+  {
+    "category": "motorbike",
+    "filename": "1.png",
+    "path": "assets/images/images_128/T2I_128/motorbike/1.png"
+  },
+  {
+    "category": "motorbike",
+    "filename": "2.png",
+    "path": "assets/images/images_128/T2I_128/motorbike/2.png"
+  },
+  {
+    "category": "rhinoceros",
+    "filename": "0.png",
+    "path": "assets/images/images_128/T2I_128/rhinoceros/0.png"
+  },
+  {
+    "category": "rhinoceros",
+    "filename": "1.png",
+    "path": "assets/images/images_128/T2I_128/rhinoceros/1.png"
+  },
+  {
+    "category": "rhinoceros",
+    "filename": "2.png",
+    "path": "assets/images/images_128/T2I_128/rhinoceros/2.png"
+  },
+  {
+    "category": "zebra",
+    "filename": "0.png",
+    "path": "assets/images/images_128/T2I_128/zebra/0.png"
+  },
+  {
+    "category": "zebra",
+    "filename": "1.png",
+    "path": "assets/images/images_128/T2I_128/zebra/1.png"
+  },
+  {
+    "category": "zebra",
+    "filename": "2.png",
+    "path": "assets/images/images_128/T2I_128/zebra/2.png"
+  },
+  {
+    "category": "airplane",
+    "filename": "0_0_a fighter jet taking off from an aircraft carrier_images.png",
+    "path": "assets/images/images_random/Controlnet_random/airplane/0_0_a fighter jet taking off from an aircraft carrier_images.png"
+  },
+  {
+    "category": "airplane",
+    "filename": "1_0_a united airlines plane flying in the sky_images.png",
+    "path": "assets/images/images_random/Controlnet_random/airplane/1_0_a united airlines plane flying in the sky_images.png"
+  },
+  {
+    "category": "airplane",
+    "filename": "2_0_a small airplane flying through a cloudy sky_images.png",
+    "path": "assets/images/images_random/Controlnet_random/airplane/2_0_a small airplane flying through a cloudy sky_images.png"
+  },
+  {
+    "category": "barn",
+    "filename": "0_0_a red barn with a windmill in the background_images.png",
+    "path": "assets/images/images_random/Controlnet_random/barn/0_0_a red barn with a windmill in the background_images.png"
+  },
+  {
+    "category": "barn",
+    "filename": "1_0_a barn with a green roof and a white truck parked in front of it_images.png",
+    "path": "assets/images/images_random/Controlnet_random/barn/1_0_a barn with a green roof and a white truck parked in front of it_images.png"
+  },
+  {
+    "category": "barn",
+    "filename": "2_0_a wooden house with green shutters and a porch_images.png",
+    "path": "assets/images/images_random/Controlnet_random/barn/2_0_a wooden house with green shutters and a porch_images.png"
+  },
+  {
+    "category": "bicycle",
+    "filename": "0_0_a black and white photo of a bike with the words order now on it_images.png",
+    "path": "assets/images/images_random/Controlnet_random/bicycle/0_0_a black and white photo of a bike with the words order now on it_images.png"
+  },
+  {
+    "category": "bicycle",
+    "filename": "1_0_a statue of a frog riding a bicycle in a pond_images.png",
+    "path": "assets/images/images_random/Controlnet_random/bicycle/1_0_a statue of a frog riding a bicycle in a pond_images.png"
+  },
+  {
+    "category": "bicycle",
+    "filename": "2_0_a silver and black bike on a white background_images.png",
+    "path": "assets/images/images_random/Controlnet_random/bicycle/2_0_a silver and black bike on a white background_images.png"
+  },
+  {
+    "category": "bird",
+    "filename": "0_0_a bird sitting on a tree branch with a square in front of it_images.png",
+    "path": "assets/images/images_random/Controlnet_random/bird/0_0_a bird sitting on a tree branch with a square in front of it_images.png"
+  },
+  {
+    "category": "bird",
+    "filename": "1_0_a large bird flying next to a smaller bird_images.png",
+    "path": "assets/images/images_random/Controlnet_random/bird/1_0_a large bird flying next to a smaller bird_images.png"
+  },
+  {
+    "category": "bird",
+    "filename": "2_0_a close up of a pigeon with a blurry background_images.png",
+    "path": "assets/images/images_random/Controlnet_random/bird/2_0_a close up of a pigeon with a blurry background_images.png"
+  },
+  {
+    "category": "butterfly",
+    "filename": "0_0_a red and black butterfly on a black background_images.png",
+    "path": "assets/images/images_random/Controlnet_random/butterfly/0_0_a red and black butterfly on a black background_images.png"
+  },
+  {
+    "category": "butterfly",
+    "filename": "1_0_a blue butterfly on a white background_images.png",
+    "path": "assets/images/images_random/Controlnet_random/butterfly/1_0_a blue butterfly on a white background_images.png"
+  },
+  {
+    "category": "butterfly",
+    "filename": "2_0_a large orange butterfly with black spots on it's wings_images.png",
+    "path": "assets/images/images_random/Controlnet_random/butterfly/2_0_a large orange butterfly with black spots on it's wings_images.png"
+  },
+  {
+    "category": "car",
+    "filename": "0_0_two cars driving down a road with mountains in the background_images.png",
+    "path": "assets/images/images_random/Controlnet_random/car/0_0_two cars driving down a road with mountains in the background_images.png"
+  },
+  {
+    "category": "car",
+    "filename": "1_0_a silver car is driving down a road_images.png",
+    "path": "assets/images/images_random/Controlnet_random/car/1_0_a silver car is driving down a road_images.png"
+  },
+  {
+    "category": "car",
+    "filename": "2_0_a white car is shown on a white background_images.png",
+    "path": "assets/images/images_random/Controlnet_random/car/2_0_a white car is shown on a white background_images.png"
+  },
+  {
+    "category": "cat",
+    "filename": "0_0_a group of kittens sitting next to each other_images.png",
+    "path": "assets/images/images_random/Controlnet_random/cat/0_0_a group of kittens sitting next to each other_images.png"
+  },
+  {
+    "category": "cat",
+    "filename": "1_0_a cat with it's mouth open showing teeth_images.png",
+    "path": "assets/images/images_random/Controlnet_random/cat/1_0_a cat with it's mouth open showing teeth_images.png"
+  },
+  {
+    "category": "cat",
+    "filename": "2_0_an orange and white cat playing with a toy_images.png",
+    "path": "assets/images/images_random/Controlnet_random/cat/2_0_an orange and white cat playing with a toy_images.png"
+  },
+  {
+    "category": "dog",
+    "filename": "0_0_a close up of a dog with its mouth open_images.png",
+    "path": "assets/images/images_random/Controlnet_random/dog/0_0_a close up of a dog with its mouth open_images.png"
+  },
+  {
+    "category": "dog",
+    "filename": "1_0_a black and white photo of a dog_images.png",
+    "path": "assets/images/images_random/Controlnet_random/dog/1_0_a black and white photo of a dog_images.png"
+  },
+  {
+    "category": "dog",
+    "filename": "2_0_a dog laying in the grass with its tongue out_images.png",
+    "path": "assets/images/images_random/Controlnet_random/dog/2_0_a dog laying in the grass with its tongue out_images.png"
+  },
+  {
+    "category": "drill",
+    "filename": "0_0_a cordless drill is shown on a white background_images.png",
+    "path": "assets/images/images_random/Controlnet_random/drill/0_0_a cordless drill is shown on a white background_images.png"
+  },
+  {
+    "category": "drill",
+    "filename": "1_0_a cordless drill with a case and tools_images.png",
+    "path": "assets/images/images_random/Controlnet_random/drill/1_0_a cordless drill with a case and tools_images.png"
+  },
+  {
+    "category": "drill",
+    "filename": "2_0_a cordless drill with a drill attachment_images.png",
+    "path": "assets/images/images_random/Controlnet_random/drill/2_0_a cordless drill with a drill attachment_images.png"
+  },
+  {
+    "category": "motorbike",
+    "filename": "0_0_a picture of a green motorcycle with a white background_images.png",
+    "path": "assets/images/images_random/Controlnet_random/motorbike/0_0_a picture of a green motorcycle with a white background_images.png"
+  },
+  {
+    "category": "motorbike",
+    "filename": "1_0_a white and orange motorcycle parked on the street_images.png",
+    "path": "assets/images/images_random/Controlnet_random/motorbike/1_0_a white and orange motorcycle parked on the street_images.png"
+  },
+  {
+    "category": "motorbike",
+    "filename": "2_0_a close up of a motorcycle on a white background_images.png",
+    "path": "assets/images/images_random/Controlnet_random/motorbike/2_0_a close up of a motorcycle on a white background_images.png"
+  },
+  {
+    "category": "rhinoceros",
+    "filename": "0_0_a couple of rhinos standing next to each other_images.png",
+    "path": "assets/images/images_random/Controlnet_random/rhinoceros/0_0_a couple of rhinos standing next to each other_images.png"
+  },
+  {
+    "category": "rhinoceros",
+    "filename": "1_0_a rhino standing in tall grass with the word rhinos in front of it_images.png",
+    "path": "assets/images/images_random/Controlnet_random/rhinoceros/1_0_a rhino standing in tall grass with the word rhinos in front of it_images.png"
+  },
+  {
+    "category": "rhinoceros",
+    "filename": "2_0_a rhinoceros is standing in the grass_images.png",
+    "path": "assets/images/images_random/Controlnet_random/rhinoceros/2_0_a rhinoceros is standing in the grass_images.png"
+  },
+  {
+    "category": "zebra",
+    "filename": "0_0_a zebra standing in a field of dry grass_images.png",
+    "path": "assets/images/images_random/Controlnet_random/zebra/0_0_a zebra standing in a field of dry grass_images.png"
+  },
+  {
+    "category": "zebra",
+    "filename": "1_0_a zebra is standing in front of a white background_images.png",
+    "path": "assets/images/images_random/Controlnet_random/zebra/1_0_a zebra is standing in front of a white background_images.png"
+  },
+  {
+    "category": "zebra",
+    "filename": "2_0_a zebra walking across a grass covered field_images.png",
+    "path": "assets/images/images_random/Controlnet_random/zebra/2_0_a zebra walking across a grass covered field_images.png"
+  },
+  {
+    "category": "airplane",
+    "filename": "0_0_a fighter jet taking off from an aircraft carrier_images.png",
+    "path": "assets/images/images_random/ours_random/airplane/0_0_a fighter jet taking off from an aircraft carrier_images.png"
+  },
+  {
+    "category": "airplane",
+    "filename": "1_0_a united airlines plane flying in the sky_images.png",
+    "path": "assets/images/images_random/ours_random/airplane/1_0_a united airlines plane flying in the sky_images.png"
+  },
+  {
+    "category": "airplane",
+    "filename": "2_0_a small airplane flying through a cloudy sky_images.png",
+    "path": "assets/images/images_random/ours_random/airplane/2_0_a small airplane flying through a cloudy sky_images.png"
+  },
+  {
+    "category": "barn",
+    "filename": "0_0_a red barn with a windmill in the background_images.png",
+    "path": "assets/images/images_random/ours_random/barn/0_0_a red barn with a windmill in the background_images.png"
+  },
+  {
+    "category": "barn",
+    "filename": "1_0_a barn with a green roof and a white truck parked in front of it_images.png",
+    "path": "assets/images/images_random/ours_random/barn/1_0_a barn with a green roof and a white truck parked in front of it_images.png"
+  },
+  {
+    "category": "barn",
+    "filename": "2_0_a wooden house with green shutters and a porch_images.png",
+    "path": "assets/images/images_random/ours_random/barn/2_0_a wooden house with green shutters and a porch_images.png"
+  },
+  {
+    "category": "bicycle",
+    "filename": "0_0_a black and white photo of a bike with the words order now on it_images.png",
+    "path": "assets/images/images_random/ours_random/bicycle/0_0_a black and white photo of a bike with the words order now on it_images.png"
+  },
+  {
+    "category": "bicycle",
+    "filename": "1_0_a statue of a frog riding a bicycle in a pond_images.png",
+    "path": "assets/images/images_random/ours_random/bicycle/1_0_a statue of a frog riding a bicycle in a pond_images.png"
+  },
+  {
+    "category": "bicycle",
+    "filename": "2_0_a silver and black bike on a white background_images.png",
+    "path": "assets/images/images_random/ours_random/bicycle/2_0_a silver and black bike on a white background_images.png"
+  },
+  {
+    "category": "bird",
+    "filename": "0_0_a bird sitting on a tree branch with a square in front of it_images.png",
+    "path": "assets/images/images_random/ours_random/bird/0_0_a bird sitting on a tree branch with a square in front of it_images.png"
+  },
+  {
+    "category": "bird",
+    "filename": "1_0_a large bird flying next to a smaller bird_images.png",
+    "path": "assets/images/images_random/ours_random/bird/1_0_a large bird flying next to a smaller bird_images.png"
+  },
+  {
+    "category": "bird",
+    "filename": "2_0_a close up of a pigeon with a blurry background_images.png",
+    "path": "assets/images/images_random/ours_random/bird/2_0_a close up of a pigeon with a blurry background_images.png"
+  },
+  {
+    "category": "butterfly",
+    "filename": "0_0_a red and black butterfly on a black background_images.png",
+    "path": "assets/images/images_random/ours_random/butterfly/0_0_a red and black butterfly on a black background_images.png"
+  },
+  {
+    "category": "butterfly",
+    "filename": "1_0_a blue butterfly on a white background_images.png",
+    "path": "assets/images/images_random/ours_random/butterfly/1_0_a blue butterfly on a white background_images.png"
+  },
+  {
+    "category": "butterfly",
+    "filename": "2_0_a large orange butterfly with black spots on it's wings_images.png",
+    "path": "assets/images/images_random/ours_random/butterfly/2_0_a large orange butterfly with black spots on it's wings_images.png"
+  },
+  {
+    "category": "car",
+    "filename": "0_0_two cars driving down a road with mountains in the background_images.png",
+    "path": "assets/images/images_random/ours_random/car/0_0_two cars driving down a road with mountains in the background_images.png"
+  },
+  {
+    "category": "car",
+    "filename": "1_0_a silver car is driving down a road_images.png",
+    "path": "assets/images/images_random/ours_random/car/1_0_a silver car is driving down a road_images.png"
+  },
+  {
+    "category": "car",
+    "filename": "2_0_a white car is shown on a white background_images.png",
+    "path": "assets/images/images_random/ours_random/car/2_0_a white car is shown on a white background_images.png"
+  },
+  {
+    "category": "cat",
+    "filename": "0_0_a group of kittens sitting next to each other_images.png",
+    "path": "assets/images/images_random/ours_random/cat/0_0_a group of kittens sitting next to each other_images.png"
+  },
+  {
+    "category": "cat",
+    "filename": "1_0_a cat with it's mouth open showing teeth_images.png",
+    "path": "assets/images/images_random/ours_random/cat/1_0_a cat with it's mouth open showing teeth_images.png"
+  },
+  {
+    "category": "cat",
+    "filename": "2_0_an orange and white cat playing with a toy_images.png",
+    "path": "assets/images/images_random/ours_random/cat/2_0_an orange and white cat playing with a toy_images.png"
+  },
+  {
+    "category": "dog",
+    "filename": "0_0_a close up of a dog with its mouth open_images.png",
+    "path": "assets/images/images_random/ours_random/dog/0_0_a close up of a dog with its mouth open_images.png"
+  },
+  {
+    "category": "dog",
+    "filename": "1_0_a black and white photo of a dog_images.png",
+    "path": "assets/images/images_random/ours_random/dog/1_0_a black and white photo of a dog_images.png"
+  },
+  {
+    "category": "dog",
+    "filename": "2_0_a dog laying in the grass with its tongue out_images.png",
+    "path": "assets/images/images_random/ours_random/dog/2_0_a dog laying in the grass with its tongue out_images.png"
+  },
+  {
+    "category": "drill",
+    "filename": "0_0_a cordless drill is shown on a white background_images.png",
+    "path": "assets/images/images_random/ours_random/drill/0_0_a cordless drill is shown on a white background_images.png"
+  },
+  {
+    "category": "drill",
+    "filename": "1_0_a cordless drill with a case and tools_images.png",
+    "path": "assets/images/images_random/ours_random/drill/1_0_a cordless drill with a case and tools_images.png"
+  },
+  {
+    "category": "drill",
+    "filename": "2_0_a cordless drill with a drill attachment_images.png",
+    "path": "assets/images/images_random/ours_random/drill/2_0_a cordless drill with a drill attachment_images.png"
+  },
+  {
+    "category": "motorbike",
+    "filename": "0_0_a picture of a green motorcycle with a white background_images.png",
+    "path": "assets/images/images_random/ours_random/motorbike/0_0_a picture of a green motorcycle with a white background_images.png"
+  },
+  {
+    "category": "motorbike",
+    "filename": "1_0_a white and orange motorcycle parked on the street_images.png",
+    "path": "assets/images/images_random/ours_random/motorbike/1_0_a white and orange motorcycle parked on the street_images.png"
+  },
+  {
+    "category": "motorbike",
+    "filename": "2_0_a close up of a motorcycle on a white background_images.png",
+    "path": "assets/images/images_random/ours_random/motorbike/2_0_a close up of a motorcycle on a white background_images.png"
+  },
+  {
+    "category": "rhinoceros",
+    "filename": "0_0_a couple of rhinos standing next to each other_images.png",
+    "path": "assets/images/images_random/ours_random/rhinoceros/0_0_a couple of rhinos standing next to each other_images.png"
+  },
+  {
+    "category": "rhinoceros",
+    "filename": "1_0_a rhino standing in tall grass with the word rhinos in front of it_images.png",
+    "path": "assets/images/images_random/ours_random/rhinoceros/1_0_a rhino standing in tall grass with the word rhinos in front of it_images.png"
+  },
+  {
+    "category": "rhinoceros",
+    "filename": "2_0_a rhinoceros is standing in the grass_images.png",
+    "path": "assets/images/images_random/ours_random/rhinoceros/2_0_a rhinoceros is standing in the grass_images.png"
+  },
+  {
+    "category": "zebra",
+    "filename": "0_0_a zebra standing in a field of dry grass_images.png",
+    "path": "assets/images/images_random/ours_random/zebra/0_0_a zebra standing in a field of dry grass_images.png"
+  },
+  {
+    "category": "zebra",
+    "filename": "1_0_a zebra is standing in front of a white background_images.png",
+    "path": "assets/images/images_random/ours_random/zebra/1_0_a zebra is standing in front of a white background_images.png"
+  },
+  {
+    "category": "zebra",
+    "filename": "2_0_a zebra walking across a grass covered field_images.png",
+    "path": "assets/images/images_random/ours_random/zebra/2_0_a zebra walking across a grass covered field_images.png"
+  },
+  {
+    "category": "airplane",
+    "filename": "0_source_mask.png",
+    "path": "assets/images/images_random/sketch_random/airplane/0_source_mask.png"
+  },
+  {
+    "category": "airplane",
+    "filename": "1_source_mask.png",
+    "path": "assets/images/images_random/sketch_random/airplane/1_source_mask.png"
+  },
+  {
+    "category": "airplane",
+    "filename": "2_source_mask.png",
+    "path": "assets/images/images_random/sketch_random/airplane/2_source_mask.png"
+  },
+  {
+    "category": "barn",
+    "filename": "0_source_mask.png",
+    "path": "assets/images/images_random/sketch_random/barn/0_source_mask.png"
+  },
+  {
+    "category": "barn",
+    "filename": "1_source_mask.png",
+    "path": "assets/images/images_random/sketch_random/barn/1_source_mask.png"
+  },
+  {
+    "category": "barn",
+    "filename": "2_source_mask.png",
+    "path": "assets/images/images_random/sketch_random/barn/2_source_mask.png"
+  },
+  {
+    "category": "bicycle",
+    "filename": "0_source_mask.png",
+    "path": "assets/images/images_random/sketch_random/bicycle/0_source_mask.png"
+  },
+  {
+    "category": "bicycle",
+    "filename": "1_source_mask.png",
+    "path": "assets/images/images_random/sketch_random/bicycle/1_source_mask.png"
+  },
+  {
+    "category": "bicycle",
+    "filename": "2_source_mask.png",
+    "path": "assets/images/images_random/sketch_random/bicycle/2_source_mask.png"
+  },
+  {
+    "category": "bird",
+    "filename": "0_source_mask.png",
+    "path": "assets/images/images_random/sketch_random/bird/0_source_mask.png"
+  },
+  {
+    "category": "bird",
+    "filename": "1_source_mask.png",
+    "path": "assets/images/images_random/sketch_random/bird/1_source_mask.png"
+  },
+  {
+    "category": "bird",
+    "filename": "2_source_mask.png",
+    "path": "assets/images/images_random/sketch_random/bird/2_source_mask.png"
+  },
+  {
+    "category": "butterfly",
+    "filename": "0_source_mask.png",
+    "path": "assets/images/images_random/sketch_random/butterfly/0_source_mask.png"
+  },
+  {
+    "category": "butterfly",
+    "filename": "1_source_mask.png",
+    "path": "assets/images/images_random/sketch_random/butterfly/1_source_mask.png"
+  },
+  {
+    "category": "butterfly",
+    "filename": "2_source_mask.png",
+    "path": "assets/images/images_random/sketch_random/butterfly/2_source_mask.png"
+  },
+  {
+    "category": "car",
+    "filename": "0_source_mask.png",
+    "path": "assets/images/images_random/sketch_random/car/0_source_mask.png"
+  },
+  {
+    "category": "car",
+    "filename": "1_source_mask.png",
+    "path": "assets/images/images_random/sketch_random/car/1_source_mask.png"
+  },
+  {
+    "category": "car",
+    "filename": "2_source_mask.png",
+    "path": "assets/images/images_random/sketch_random/car/2_source_mask.png"
+  },
+  {
+    "category": "cat",
+    "filename": "0_source_mask.png",
+    "path": "assets/images/images_random/sketch_random/cat/0_source_mask.png"
+  },
+  {
+    "category": "cat",
+    "filename": "1_source_mask.png",
+    "path": "assets/images/images_random/sketch_random/cat/1_source_mask.png"
+  },
+  {
+    "category": "cat",
+    "filename": "2_source_mask.png",
+    "path": "assets/images/images_random/sketch_random/cat/2_source_mask.png"
+  },
+  {
+    "category": "dog",
+    "filename": "0_source_mask.png",
+    "path": "assets/images/images_random/sketch_random/dog/0_source_mask.png"
+  },
+  {
+    "category": "dog",
+    "filename": "1_source_mask.png",
+    "path": "assets/images/images_random/sketch_random/dog/1_source_mask.png"
+  },
+  {
+    "category": "dog",
+    "filename": "2_source_mask.png",
+    "path": "assets/images/images_random/sketch_random/dog/2_source_mask.png"
+  },
+  {
+    "category": "drill",
+    "filename": "0_source_mask.png",
+    "path": "assets/images/images_random/sketch_random/drill/0_source_mask.png"
+  },
+  {
+    "category": "drill",
+    "filename": "1_source_mask.png",
+    "path": "assets/images/images_random/sketch_random/drill/1_source_mask.png"
+  },
+  {
+    "category": "drill",
+    "filename": "2_source_mask.png",
+    "path": "assets/images/images_random/sketch_random/drill/2_source_mask.png"
+  },
+  {
+    "category": "motorbike",
+    "filename": "0_source_mask.png",
+    "path": "assets/images/images_random/sketch_random/motorbike/0_source_mask.png"
+  },
+  {
+    "category": "motorbike",
+    "filename": "1_source_mask.png",
+    "path": "assets/images/images_random/sketch_random/motorbike/1_source_mask.png"
+  },
+  {
+    "category": "motorbike",
+    "filename": "2_source_mask.png",
+    "path": "assets/images/images_random/sketch_random/motorbike/2_source_mask.png"
+  },
+  {
+    "category": "rhinoceros",
+    "filename": "0_source_mask.png",
+    "path": "assets/images/images_random/sketch_random/rhinoceros/0_source_mask.png"
+  },
+  {
+    "category": "rhinoceros",
+    "filename": "1_source_mask.png",
+    "path": "assets/images/images_random/sketch_random/rhinoceros/1_source_mask.png"
+  },
+  {
+    "category": "rhinoceros",
+    "filename": "2_source_mask.png",
+    "path": "assets/images/images_random/sketch_random/rhinoceros/2_source_mask.png"
+  },
+  {
+    "category": "zebra",
+    "filename": "0_source_mask.png",
+    "path": "assets/images/images_random/sketch_random/zebra/0_source_mask.png"
+  },
+  {
+    "category": "zebra",
+    "filename": "1_source_mask.png",
+    "path": "assets/images/images_random/sketch_random/zebra/1_source_mask.png"
+  },
+  {
+    "category": "zebra",
+    "filename": "2_source_mask.png",
+    "path": "assets/images/images_random/sketch_random/zebra/2_source_mask.png"
+  },
+  {
+    "category": "airplane",
+    "filename": "0.png",
+    "path": "assets/images/images_random/T2I_random/airplane/0.png"
+  },
+  {
+    "category": "airplane",
+    "filename": "1.png",
+    "path": "assets/images/images_random/T2I_random/airplane/1.png"
+  },
+  {
+    "category": "airplane",
+    "filename": "2.png",
+    "path": "assets/images/images_random/T2I_random/airplane/2.png"
+  },
+  {
+    "category": "barn",
+    "filename": "0.png",
+    "path": "assets/images/images_random/T2I_random/barn/0.png"
+  },
+  {
+    "category": "barn",
+    "filename": "1.png",
+    "path": "assets/images/images_random/T2I_random/barn/1.png"
+  },
+  {
+    "category": "barn",
+    "filename": "2.png",
+    "path": "assets/images/images_random/T2I_random/barn/2.png"
+  },
+  {
+    "category": "bicycle",
+    "filename": "0.png",
+    "path": "assets/images/images_random/T2I_random/bicycle/0.png"
+  },
+  {
+    "category": "bicycle",
+    "filename": "1.png",
+    "path": "assets/images/images_random/T2I_random/bicycle/1.png"
+  },
+  {
+    "category": "bicycle",
+    "filename": "2.png",
+    "path": "assets/images/images_random/T2I_random/bicycle/2.png"
+  },
+  {
+    "category": "bird",
+    "filename": "0.png",
+    "path": "assets/images/images_random/T2I_random/bird/0.png"
+  },
+  {
+    "category": "bird",
+    "filename": "1.png",
+    "path": "assets/images/images_random/T2I_random/bird/1.png"
+  },
+  {
+    "category": "bird",
+    "filename": "2.png",
+    "path": "assets/images/images_random/T2I_random/bird/2.png"
+  },
+  {
+    "category": "butterfly",
+    "filename": "0.png",
+    "path": "assets/images/images_random/T2I_random/butterfly/0.png"
+  },
+  {
+    "category": "butterfly",
+    "filename": "1.png",
+    "path": "assets/images/images_random/T2I_random/butterfly/1.png"
+  },
+  {
+    "category": "butterfly",
+    "filename": "2.png",
+    "path": "assets/images/images_random/T2I_random/butterfly/2.png"
+  },
+  {
+    "category": "car",
+    "filename": "0.png",
+    "path": "assets/images/images_random/T2I_random/car/0.png"
+  },
+  {
+    "category": "car",
+    "filename": "1.png",
+    "path": "assets/images/images_random/T2I_random/car/1.png"
+  },
+  {
+    "category": "car",
+    "filename": "2.png",
+    "path": "assets/images/images_random/T2I_random/car/2.png"
+  },
+  {
+    "category": "cat",
+    "filename": "0.png",
+    "path": "assets/images/images_random/T2I_random/cat/0.png"
+  },
+  {
+    "category": "cat",
+    "filename": "1.png",
+    "path": "assets/images/images_random/T2I_random/cat/1.png"
+  },
+  {
+    "category": "cat",
+    "filename": "2.png",
+    "path": "assets/images/images_random/T2I_random/cat/2.png"
+  },
+  {
+    "category": "dog",
+    "filename": "0.png",
+    "path": "assets/images/images_random/T2I_random/dog/0.png"
+  },
+  {
+    "category": "dog",
+    "filename": "1.png",
+    "path": "assets/images/images_random/T2I_random/dog/1.png"
+  },
+  {
+    "category": "dog",
+    "filename": "2.png",
+    "path": "assets/images/images_random/T2I_random/dog/2.png"
+  },
+  {
+    "category": "drill",
+    "filename": "0.png",
+    "path": "assets/images/images_random/T2I_random/drill/0.png"
+  },
+  {
+    "category": "drill",
+    "filename": "1.png",
+    "path": "assets/images/images_random/T2I_random/drill/1.png"
+  },
+  {
+    "category": "drill",
+    "filename": "2.png",
+    "path": "assets/images/images_random/T2I_random/drill/2.png"
+  },
+  {
+    "category": "motorbike",
+    "filename": "0.png",
+    "path": "assets/images/images_random/T2I_random/motorbike/0.png"
+  },
+  {
+    "category": "motorbike",
+    "filename": "1.png",
+    "path": "assets/images/images_random/T2I_random/motorbike/1.png"
+  },
+  {
+    "category": "motorbike",
+    "filename": "2.png",
+    "path": "assets/images/images_random/T2I_random/motorbike/2.png"
+  },
+  {
+    "category": "rhinoceros",
+    "filename": "0.png",
+    "path": "assets/images/images_random/T2I_random/rhinoceros/0.png"
+  },
+  {
+    "category": "rhinoceros",
+    "filename": "1.png",
+    "path": "assets/images/images_random/T2I_random/rhinoceros/1.png"
+  },
+  {
+    "category": "rhinoceros",
+    "filename": "2.png",
+    "path": "assets/images/images_random/T2I_random/rhinoceros/2.png"
+  },
+  {
+    "category": "zebra",
+    "filename": "0.png",
+    "path": "assets/images/images_random/T2I_random/zebra/0.png"
+  },
+  {
+    "category": "zebra",
+    "filename": "1.png",
+    "path": "assets/images/images_random/T2I_random/zebra/1.png"
+  },
+  {
+    "category": "zebra",
+    "filename": "2.png",
+    "path": "assets/images/images_random/T2I_random/zebra/2.png"
+  }
+]

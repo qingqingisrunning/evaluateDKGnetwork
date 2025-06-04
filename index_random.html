@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <title>Image Rating</title>
+  <script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
+  <style>
+    input[type="radio"] {
+      width: 20px;
+      height: 20px;
+      margin: 0 6px 0 0;
+      cursor: pointer;
+    }
+    .score-group {
+      display: flex;
+      gap: 12px;
+      align-items: center;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .score-group label {
+      display: flex;
+      align-items: center;
+      font-size: 20px;
+      gap: 4px;
+    }
+    .image-row {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      align-items: start;
+      margin-bottom: 30px;
+      gap: 20px;
+    }
+    .image-block {
+      text-align: center;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: auto;
+    }
+    .score-group {
+      margin: 5px 0;
+    }
+    .submit-container {
+      text-align: center;
+      margin: 30px 0;
+    }
+    .submit-button {
+      font-size: 18px;
+      padding: 12px 24px;
+      background-color: #007BFF;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      transition: background-color 0.3s;
+    }
+    .submit-button:hover {
+      background-color: #0056b3;
+    }
+    .username-container {
+      text-align: center;
+      margin-bottom: 20px;
+      font-size: 24px;
+      font-weight: bold;
+    }
+    #username {
+      padding: 10px;
+      font-size: 22px;
+      width: 300px;
+      border-radius: 6px;
+      border: 1.5px solid #ccc;
+    }
+    label[for="username"] {
+      margin-right: 12px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Image Rating Survey</h1>
+
+  <div class="username-container">
+    <label for="username">Your Name:</label>
+    <input type="text" id="username" placeholder="Enter your name" />
+  </div>
+
+  <div id="rating-container"></div>
+
+  <div class="submit-container">
+    <button class="submit-button" onclick="exportToExcel()">Submit & Export</button>
+  </div>
+
+  <script>
+    const methodMap = {
+      A: 't2i',
+      B: 'controlnet',
+      C: 'ours',
+    };
+
+    const reverseMethodMap = Object.fromEntries(
+      Object.entries(methodMap).map(([k, v]) => [v, k])
+    );
+
+    let imageData = [];
+    let grouped = {};
+
+    fetch('images.json')
+      .then(response => response.json())
+      .then(data => {
+        imageData = data;
+        grouped = {};
+
+        data.forEach(img => {
+          const lowerFilename = img.filename.toLowerCase();
+          const isSketch = lowerFilename.includes('source_mask');
+          const isHole = lowerFilename.includes('source_hole');
+          if (isHole) return; // 忽略 source_hole
+
+          let method = '';
+          const path = img.path.toLowerCase();
+          if (isSketch) method = 'sketch';
+          else if (path.includes('/t2i_random/')) method = 't2i';
+          else if (path.includes('/controlnet_random/')) method = 'controlnet';
+          else if (path.includes('/ours_random/')) method = 'ours';
+          else return;
+
+          const baseName = img.filename.split('_')[0].split('.')[0];
+          const key = img.category + '_' + baseName;
+
+          if (!grouped[key]) grouped[key] = {};
+          grouped[key][method] = img;
+        });
+
+        const container = document.getElementById("rating-container");
+
+        Object.entries(grouped).forEach(([groupKey, methods]) => {
+          const row = document.createElement("div");
+          row.className = "image-row";
+
+          ["sketch", ...Object.keys(methodMap)].forEach(alias => {
+            let method = alias === "sketch" ? "sketch" : methodMap[alias];
+            const img = methods[method];
+            const div = document.createElement("div");
+            div.className = "image-block";
+
+            const labelName = alias === "sketch" ? "Sketch" : alias;
+
+            if (img) {
+              div.innerHTML = `
+                <p><strong>${labelName}</strong></p>
+                <img src="${img.path}"><br>
+                ${
+                  method === "sketch"
+                    ? ''
+                    : `
+                  <div class="score-group">
+                    Quality:
+                    ${[1, 2, 3, 4, 5]
+                      .map(
+                        score => `
+                        <label>
+                          <input type="radio" name="${groupKey}_${method}_q" value="${score}"> ${score}
+                        </label>
+                      `
+                      )
+                      .join(' ')}
+                  </div>
+                  <div class="score-group">
+                    Fidelity:
+                    ${[1, 2, 3, 4, 5]
+                      .map(
+                        score => `
+                        <label>
+                          <input type="radio" name="${groupKey}_${method}_f" value="${score}"> ${score}
+                        </label>
+                      `
+                      )
+                      .join(' ')}
+                  </div>
+                `
+                }
+              `;
+            } else {
+              div.innerHTML = `<p><strong>${labelName}</strong></p><div style="height: 128px;"></div>`;
+            }
+
+            row.appendChild(div);
+          });
+
+          container.appendChild(row);
+        });
+      });
+
+    function exportToExcel() {
+      const rows = [["Category", "Method", "Filename", "Quality", "Fidelity"]];
+
+      Object.entries(grouped).forEach(([groupKey, methods]) => {
+        Object.values(methodMap).forEach(method => {
+          const img = methods[method];
+          if (!img) return;
+
+          const key = groupKey + '_' + method;
+          const qInput = document.querySelector(`input[name="${key}_q"]:checked`);
+          const fInput = document.querySelector(`input[name="${key}_f"]:checked`);
+          const q = qInput ? qInput.value : '';
+          const f = fInput ? fInput.value : '';
+
+          rows.push([img.category, reverseMethodMap[method], img.filename, q, f]);
+        });
+      });
+
+      const ws = XLSX.utils.aoa_to_sheet(rows);
+      const wb = XLSX.utils.book_new();
+      XLSX.utils.book_append_sheet(wb, ws, "Ratings");
+
+      const name = document.getElementById("username").value.trim() || "anonymous";
+      const filename = `image_rating_random_${name}.xlsx`;
+
+      XLSX.writeFile(wb, filename);
+    }
+  </script>
+</body>
+</html>
